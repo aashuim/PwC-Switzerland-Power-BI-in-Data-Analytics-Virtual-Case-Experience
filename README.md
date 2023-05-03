@@ -5,7 +5,7 @@ If our people could use these tools to solve common problems, they’d help us b
 
 This is why you're here! Our Digital Accelerator programme is an internal chance that takes groups of our employees out of their day jobs and puts them through trainings that teaches them skills in technology such as automation, machine learning, design thinking, and digital storytelling. PowerBI is an important part of it as visualising data helps to handle and understand clients.
 
-Task 1: Call Centre Trends
+# Task 1: Call Centre Trends
 Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. Get creative!
 
 Possible KPIs include (to get you started, but not limited to):
@@ -16,8 +16,10 @@ Calls by time
 Average speed of answer
 Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 Call Centre Trends
+![Screenshot 2023-05-03 171944](https://user-images.githubusercontent.com/128593114/235907887-65a56c76-b31a-4b90-a7f0-4220d0da893a.png)
 
-Task 2: Customer Retention
+
+# Task 2: Customer Retention
 A few weeks after presenting your dashboard to the management, the Retention Manager from the telecom reaches out to you directly. He was impressed by your work and asked if you can put together a dashboard about customer retention.
 
 In addition, to better understand the data, the telecom Retention Manager has scheduled a meeting with the engagement partner at PwC to cover these points:
@@ -28,8 +30,12 @@ Currently, we get in touch after they have terminated the contract, but this is 
 We have done customer analysis with Excel: it has always ended in a dead-end
 We would like to know more about our customers: visualised clearly so that it’s self-explanatory for our management The Retentions Manager has provided some information, have a look through the resource section.
 Customer Retention Customer Retention
+![Screenshot 2023-05-03 171603](https://user-images.githubusercontent.com/128593114/235907379-92fd1651-e422-44c4-b556-04e1535d7f58.png)
+![Screenshot 2023-05-03 171816](https://user-images.githubusercontent.com/128593114/235907550-2459b16b-cb26-4bcf-8e7f-0159bb99a197.png)
 
-Task 3: Diversity & Inclusion
+
+
+# Task 3: Diversity & Inclusion
 Human Resources at our telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress. They’re reaching out to us for help.
 
 At PwC Switzerland we are often approached by clients seeking support with diversity and inclusion. Companies need a workforce of diverse talents and backgrounds to succeed in an increasingly complex and heterogeneous world. To us, diversity and inclusion are business imperatives, not just nice-to-haves. We aim for all of our teams to feel welcome and appreciated. But actually achieving this and unlocking its potential involves a whole set of practical challenges.
@@ -47,3 +53,8 @@ number of leavers
 Average performance rating: men
 Average Performance rating: women
 Diversity & Inclusion Diversity & Inclusion
+
+
+![Screenshot 2023-05-03 171125](https://user-images.githubusercontent.com/128593114/235906743-4dfeb8b6-0617-4593-9c66-24fd25aca576.png)
+
+![Screenshot 2023-05-03 172053](https://user-images.githubusercontent.com/128593114/235908097-4d9307db-37b5-4fa1-8e1a-16cff138ace1.png)
